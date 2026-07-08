@@ -14,7 +14,37 @@
       "cta": { "label": "릴리즈 노트 보기", "url": "https://github.com/TeamH-GameStudio/OpenDesk-releases/releases" },
       "minVersion": null,
       "maxVersion": null,
-      "locales": null
+      "locales": ["ko"]
+    },
+    {
+      "id": "soft-launch-2026-06-en",
+      "title": "OpenDesk Soft Launch — Our First Public Release Is Here",
+      "summary": "Everything's ready for you to work side-by-side with your agents. We've shipped the first public release.",
+      "body": "We've shipped the **first public release** of OpenDesk. You can now work side-by-side with your colleagues (agents) at the same desk.\n\n## What you can do in this version\n- Add abilities to your colleagues from the Skill Market\n- Set up recurring tasks (Cron) that run automatically\n- Credit-based settlement and top-ups\n- Connect a local folder to work with your own files\n\nCheck the release notes for the full changelog. Feedback is always welcome!",
+      "severity": "update",
+      "critical": false,
+      "pinned": true,
+      "createdAt": "2026-06-30T09:00:00Z",
+      "expiresAt": null,
+      "cta": { "label": "View release notes", "url": "https://github.com/TeamH-GameStudio/OpenDesk-releases/releases" },
+      "minVersion": null,
+      "maxVersion": null,
+      "locales": ["en"]
+    },
+    {
+      "id": "soft-launch-2026-06-ja",
+      "title": "OpenDesk ソフトローンチ — 待望の初公開バージョンが登場",
+      "summary": "エージェントと同じデスクで働く準備が整いました。初の公開バージョンをリリースしました。",
+      "body": "OpenDesk の **初の公開バージョン** をリリースしました。これで同僚(エージェント)たちと同じデスクで一緒に働けます。\n\n## このバージョンでできること\n- スキルマーケットで同僚に能力を追加\n- 定型業務を自動で回す繰り返しタスク(Cron)\n- クレジットベースの精算とチャージ\n- ローカルフォルダを接続して自分の資料と一緒に作業\n\n詳しい変更内容はリリースノートをご確認ください。フィードバックはいつでも歓迎です!",
+      "severity": "update",
+      "critical": false,
+      "pinned": true,
+      "createdAt": "2026-06-30T09:00:00Z",
+      "expiresAt": null,
+      "cta": { "label": "リリースノートを見る", "url": "https://github.com/TeamH-GameStudio/OpenDesk-releases/releases" },
+      "minVersion": null,
+      "maxVersion": null,
+      "locales": ["ja"]
     },
     {
       "id": "welcome-bonus-2026-06",
@@ -29,7 +59,37 @@
       "cta": null,
       "minVersion": null,
       "maxVersion": null,
-      "locales": null
+      "locales": ["ko"]
+    },
+    {
+      "id": "welcome-bonus-2026-06-en",
+      "title": "Welcome Bonus — 5,000 Credits On Us",
+      "summary": "To celebrate the soft launch, we're automatically crediting new desks with bonus credits.",
+      "body": "To celebrate our soft launch, we're giving every new desk **5,000 credits** — automatically, no request needed.\n\nUse them to equip skills on your colleagues, run recurring tasks, or hand off work through chat.",
+      "severity": "event",
+      "critical": false,
+      "pinned": false,
+      "createdAt": "2026-06-29T09:00:00Z",
+      "expiresAt": "2026-07-31T23:59:59Z",
+      "cta": null,
+      "minVersion": null,
+      "maxVersion": null,
+      "locales": ["en"]
+    },
+    {
+      "id": "welcome-bonus-2026-06-ja",
+      "title": "ウェルカムボーナス — 5,000クレジットプレゼント",
+      "summary": "ソフトローンチ記念として、新しく始めたデスクにボーナスクレジットを自動付与します。",
+      "body": "ソフトローンチを記念して、新しく始めたデスクに **5,000クレジット** をプレゼントします。申請不要で自動的に付与されます。\n\n同僚にスキルを装備したり、繰り返しタスクを回したり、チャットで仕事を任せたりするのに使ってみてください。",
+      "severity": "event",
+      "critical": false,
+      "pinned": false,
+      "createdAt": "2026-06-29T09:00:00Z",
+      "expiresAt": "2026-07-31T23:59:59Z",
+      "cta": null,
+      "minVersion": null,
+      "maxVersion": null,
+      "locales": ["ja"]
     },
     {
       "id": "settle-maintenance-2026-07-06",
@@ -59,7 +119,37 @@
       "cta": null,
       "minVersion": null,
       "maxVersion": null,
-      "locales": null
+      "locales": ["ko"]
+    },
+    {
+      "id": "feedback-welcome-2026-06-en",
+      "title": "We'd Love to Hear Your Feedback",
+      "summary": "Run into something annoying or wish we had a feature? Let us know anytime — we move fast on feedback.",
+      "body": "OpenDesk is still being polished at a fast pace. If something felt off while you were using it, or you thought \"I wish it could do this,\" please feel free to let us know.\n\nEvery bit of feedback shapes where the next update goes. Thank you!",
+      "severity": "general",
+      "critical": false,
+      "pinned": false,
+      "createdAt": "2026-06-28T09:00:00Z",
+      "expiresAt": null,
+      "cta": null,
+      "minVersion": null,
+      "maxVersion": null,
+      "locales": ["en"]
+    },
+    {
+      "id": "feedback-welcome-2026-06-ja",
+      "title": "フィードバックをお聞かせください",
+      "summary": "不便な点や欲しい機能があれば、いつでもお知らせください。迅速に反映しています。",
+      "body": "OpenDesk は今も高速で改善を重ねています。使っていて不便に感じた点や「こんな機能があったら」と思うことがあれば、お気軽にお知らせください。\n\n小さなご意見の一つひとつが次のアップデートの方向を決めます。ありがとうございます!",
+      "severity": "general",
+      "critical": false,
+      "pinned": false,
+      "createdAt": "2026-06-28T09:00:00Z",
+      "expiresAt": null,
+      "cta": null,
+      "minVersion": null,
+      "maxVersion": null,
+      "locales": ["ja"]
     }
   ]
 }
